@@ -1,0 +1,25 @@
+.Increment{
+    font-size: 10px;
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.counting{
+    color: green;
+    font-size: 50px;
+}
+
+.reset{
+    font-size: 10px;
+    background-color: red;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    border-radius: 10px;
+    border-color: black;
+
+}
